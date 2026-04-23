@@ -14,4 +14,4 @@ jobs:
           org-name: hussain0510
           repo-name: infrastructure-repository
           branch-name: main
-          workflow-name: Terraform CI/CD Pipeline
+          workflow-name: Terraform-CI-CD-Pipeline
